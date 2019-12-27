@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/emailzjq/aimee/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emailzjq/aimee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 装修的点
+1. 厨房的窗户改上弦窗，这样开窗的同时不妨碍操作
+2. 新风系统保留，看看怎么装浴霸
+3. 要不要装中央空调
+4. 主卧衣柜改衣帽间，如果空间不够，是不是可以延伸出来点
+5. 北次卧改书房，需要一个大的书架，怎么设计比较好
+6. 北次卧可以做一个榻榻米，平时当桌子用的那种，应急的时候可以睡觉
+7. 阳台的门干掉 增加空间，地面是不是齐平比较好
+8. 阳台的墙那（现在们的位置）是不是可以做一个吧台，加椅子
+9. 心心念念的吊椅可以放客厅靠阳台的位置
